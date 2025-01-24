@@ -1,0 +1,14 @@
+D:\.Net\Route\C# Adv\AdvC#2-Assignment\bin\Debug\net8.0\AdvC#2-Assignment.exe
+D:\.Net\Route\C# Adv\AdvC#2-Assignment\bin\Debug\net8.0\AdvC#2-Assignment.deps.json
+D:\.Net\Route\C# Adv\AdvC#2-Assignment\bin\Debug\net8.0\AdvC#2-Assignment.runtimeconfig.json
+D:\.Net\Route\C# Adv\AdvC#2-Assignment\bin\Debug\net8.0\AdvC#2-Assignment.dll
+D:\.Net\Route\C# Adv\AdvC#2-Assignment\bin\Debug\net8.0\AdvC#2-Assignment.pdb
+D:\.Net\Route\C# Adv\AdvC#2-Assignment\obj\Debug\net8.0\AdvC#2-Assignment.GeneratedMSBuildEditorConfig.editorconfig
+D:\.Net\Route\C# Adv\AdvC#2-Assignment\obj\Debug\net8.0\AdvC#2-Assignment.AssemblyInfoInputs.cache
+D:\.Net\Route\C# Adv\AdvC#2-Assignment\obj\Debug\net8.0\AdvC#2-Assignment.AssemblyInfo.cs
+D:\.Net\Route\C# Adv\AdvC#2-Assignment\obj\Debug\net8.0\AdvC#2-Assignment.csproj.CoreCompileInputs.cache
+D:\.Net\Route\C# Adv\AdvC#2-Assignment\obj\Debug\net8.0\AdvC#2-Assignment.dll
+D:\.Net\Route\C# Adv\AdvC#2-Assignment\obj\Debug\net8.0\refint\AdvC#2-Assignment.dll
+D:\.Net\Route\C# Adv\AdvC#2-Assignment\obj\Debug\net8.0\AdvC#2-Assignment.pdb
+D:\.Net\Route\C# Adv\AdvC#2-Assignment\obj\Debug\net8.0\AdvC#2-Assignment.genruntimeconfig.cache
+D:\.Net\Route\C# Adv\AdvC#2-Assignment\obj\Debug\net8.0\ref\AdvC#2-Assignment.dll
