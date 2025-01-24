@@ -1,0 +1,14 @@
+D:\.Net\Route\C# Adv\AdvC#4-Demo\bin\Debug\net8.0\AdvC#4-Demo.exe
+D:\.Net\Route\C# Adv\AdvC#4-Demo\bin\Debug\net8.0\AdvC#4-Demo.deps.json
+D:\.Net\Route\C# Adv\AdvC#4-Demo\bin\Debug\net8.0\AdvC#4-Demo.runtimeconfig.json
+D:\.Net\Route\C# Adv\AdvC#4-Demo\bin\Debug\net8.0\AdvC#4-Demo.dll
+D:\.Net\Route\C# Adv\AdvC#4-Demo\bin\Debug\net8.0\AdvC#4-Demo.pdb
+D:\.Net\Route\C# Adv\AdvC#4-Demo\obj\Debug\net8.0\AdvC#4-Demo.GeneratedMSBuildEditorConfig.editorconfig
+D:\.Net\Route\C# Adv\AdvC#4-Demo\obj\Debug\net8.0\AdvC#4-Demo.AssemblyInfoInputs.cache
+D:\.Net\Route\C# Adv\AdvC#4-Demo\obj\Debug\net8.0\AdvC#4-Demo.AssemblyInfo.cs
+D:\.Net\Route\C# Adv\AdvC#4-Demo\obj\Debug\net8.0\AdvC#4-Demo.csproj.CoreCompileInputs.cache
+D:\.Net\Route\C# Adv\AdvC#4-Demo\obj\Debug\net8.0\AdvC#4-Demo.dll
+D:\.Net\Route\C# Adv\AdvC#4-Demo\obj\Debug\net8.0\refint\AdvC#4-Demo.dll
+D:\.Net\Route\C# Adv\AdvC#4-Demo\obj\Debug\net8.0\AdvC#4-Demo.pdb
+D:\.Net\Route\C# Adv\AdvC#4-Demo\obj\Debug\net8.0\AdvC#4-Demo.genruntimeconfig.cache
+D:\.Net\Route\C# Adv\AdvC#4-Demo\obj\Debug\net8.0\ref\AdvC#4-Demo.dll
